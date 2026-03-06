@@ -29,7 +29,7 @@ My objective was simple: find the "crown jewels" before a real threat actor coul
 
 ---
 
-## 📑 Deliverables
+## Deliverables
 
 The culmination of this engagement is a two-part professional penetration testing report (included in this repository) designed for both leadership and technical teams:
 
